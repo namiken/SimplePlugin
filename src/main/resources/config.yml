@@ -1,4 +1,4 @@
 # if enable is false, this plugin dont move
 enable: true
 # explosion power when fishing hook is on grond or dont move
-explosionPower: 1.0
+explosionPower: 3.0
