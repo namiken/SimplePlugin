@@ -1,7 +1,6 @@
 # Fishing Hook Explosion Plugin
 ## Overview
-Player throw fishing hook by fishing rod.
-When dishing hook is on ground or dont move, fishing hook exeplode.
+When thrown fishing hook by fishing rod is on ground or dont move, fishing hook exeplode.
 
 ## Config
 - enabl: setting work or dont work
